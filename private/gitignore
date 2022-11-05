@@ -2,5 +2,5 @@ tmp/
 _old/
 _backup/
 Thumbs.db/
+Thumbs.db/
 .DS_Store/
-.gitignore/
